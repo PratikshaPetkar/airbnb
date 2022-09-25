@@ -5,7 +5,7 @@ export default function Gallery() {
   return (
     <div>
     <div>
-      <img src={Logo} alt=""/>
+      <img src={Logo} alt="photogrid"/>
       </div>
       <div>
       <h2>All made possible by hosts on Airbnb.</h2>
